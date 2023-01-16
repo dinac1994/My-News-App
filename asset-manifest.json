@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/My-News-App/static/css/main.53d8f197.css",
+    "main.js": "/My-News-App/static/js/main.0761a6cd.js",
+    "static/media/background.png": "/My-News-App/static/media/background.fb8f2c96ada5437aa746.png",
+    "static/media/Science.svg": "/My-News-App/static/media/Science.6383f24a7a42a6e6dd871e85332f206c.svg",
+    "static/media/News.svg": "/My-News-App/static/media/News.a58e52aa16a1cf77f36cc01d927dc4f2.svg",
+    "static/media/Sports.svg": "/My-News-App/static/media/Sports.83f7998f1fdd02fc50412d1cde166f87.svg",
+    "static/media/Health.svg": "/My-News-App/static/media/Health.513f7fa8690f7e24ef99ccfff9ee99f0.svg",
+    "static/media/Business.svg": "/My-News-App/static/media/Business.063ccc3a2f50d6c2b0297ad12d88934e.svg",
+    "static/media/Technology.svg": "/My-News-App/static/media/Technology.c1f3cb2805f37039a7380507f1d8d75b.svg",
+    "static/media/Home.svg": "/My-News-App/static/media/Home.ea8bbb944e5f905880c65d6cbc684c29.svg",
+    "static/media/Search_mobile.svg": "/My-News-App/static/media/Search_mobile.5e3b2b4883378614b6d8cc93b5feeb41.svg",
+    "static/media/Search.svg": "/My-News-App/static/media/Search.d24382b592f504770e08a08fe125ec0a.svg",
+    "index.html": "/My-News-App/index.html",
+    "static/media/x.svg": "/My-News-App/static/media/x.1500090dc5d78d1daceb166c7273c629.svg",
+    "static/media/Menu.svg": "/My-News-App/static/media/Menu.3d8a585b79951e056967aaff6e9ccc37.svg",
+    "main.53d8f197.css.map": "/My-News-App/static/css/main.53d8f197.css.map",
+    "main.0761a6cd.js.map": "/My-News-App/static/js/main.0761a6cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53d8f197.css",
+    "static/js/main.0761a6cd.js"
+  ]
+}
