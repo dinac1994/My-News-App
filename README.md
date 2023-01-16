@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+App available at https://dinac1994.github.io/My-News-App/.
+
+## Description
+
+This is a web app for browsing news articles that uses New York Times API and News API.
+
+I've used a simple star symbol in the bottom right corner for bookmarking favourite articles (the decision was between a star symbol or a like button), but felt star symbol is more appropriate.
+
+Everything else is designed according to the given design.
 
 ## Available Scripts
 
